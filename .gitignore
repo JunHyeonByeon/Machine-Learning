@@ -15,7 +15,7 @@ googlemapskey.txt
 강의자료/
 예제코드/
 human_activity/
-data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
